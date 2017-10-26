@@ -1,1 +1,1 @@
-# specialchar_mandalbrot
+# special thanks to Minko Gechev
